@@ -3,7 +3,7 @@
 Il launcher delle app di casa: una pagina con una tessera per app, pubblicata su
 <https://giacomoguaresi.github.io/Casa/>. Niente dati, niente accesso.
 
-Da ogni app si torna qui con la voce **Tutte le app**, in fondo al menu laterale.
+Da ogni app si torna qui con la voce **Torna all'elenco app**, in cima al menu laterale.
 
 ## Aggiungere un'app
 
@@ -11,7 +11,7 @@ Da ogni app si torna qui con la voce **Tutte le app**, in fondo al menu laterale
    indirizzo e colore (il `theme_color` del manifest dell'app).
 2. La sua icona in `src/ui/icone/<nome>.svg`, copiata da `public/icona.svg`
    dell'app.
-3. Nell'app, la voce "Tutte le app" in fondo al menu, verso l'indirizzo qui sopra.
+3. Nell'app, la voce "Torna all'elenco app" in cima al menu, verso l'indirizzo qui sopra.
 
 ## Comandi
 

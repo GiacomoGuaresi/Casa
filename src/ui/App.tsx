@@ -10,7 +10,7 @@ const icone = import.meta.glob<string>('./icone/*.svg', { eager: true, query: '?
 /**
  * Il launcher: l'intestazione delle altre app di casa, senza menu, e sotto una
  * tessera per app (src/dominio/app.ts). Ogni tessera è un link semplice; da
- * ogni app si torna qui con "Tutte le app", in fondo al suo menu.
+ * ogni app si torna qui con "Torna all'elenco app", in cima al suo menu.
  */
 export function App() {
   const statoInstallazione = useInstallazione()
